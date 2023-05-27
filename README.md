@@ -15,8 +15,9 @@ Using `Augmented reality` technology, realistic 3D models are created and shown 
 Learners can also take `tests` to assess their skills, where they can show their skills in Arabic and English alphabet, numbers and receive results in real time. Learners can also challenge themselves and re-test after a period of time to see how they have improved.</br>
 This means that learners will be able to improve their alphabet and number skills in a fun and useful way using Augmented Reality technology.</br>
 
- > In general, our project aims to improve the learning process of children and encourage them to learn and continue in it, through the  use of modern and creative technology to provide educational content that keeps pace with the aspirations of children in the current era.</br>
+## In general
+> Our project aims to improve the learning process of children and encourage them to learn and continue in it, through the  use of modern and creative technology to provide educational content that keeps pace with the aspirations of children in the current era.</br>
 ## Links
 * You can see the project report <b>[here](https://drive.google.com/file/d/1c8OvIIivvlRHEPULORfSUe52kj2Q3lAU/view)</b>,</br>
 * and some brief videos about the applecation <b>[here](https://photos.app.goo.gl/ANaSnVNPR39HWYsf8)</b>,</br>
-* Finaly you can download & test the applecation <b>[here](https://www.mediafire.com/file/m56n0nbru8xayjh/Edu-Base.apk/file)</b>,
+* Finally you can download & test the applecation <b>[here](https://www.mediafire.com/file/m56n0nbru8xayjh/Edu-Base.apk/file)</b>,
